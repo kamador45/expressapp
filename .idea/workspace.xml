@@ -4,7 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bd66b98-aed6-4b96-beb8-ac732326d9a1" name="Changes" comment="" />
+    <list default="true" id="3bd66b98-aed6-4b96-beb8-ac732326d9a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/ButtonList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Buttons/BackFinderButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Divider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Drawer/AppDrawer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Drawer/CustomDrawerContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Field/PhoneField.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/FinderBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/FinderScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Home/SubTitle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Home/TitleApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Separator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Sheets/ConfirmRide.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/ShowFinder.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/SideBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Components/Splash.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Notifications/LocalNotificationManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Screens/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Screens/Maps.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Screens/user/Historial.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Screens/user/Profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Screens/user/Settings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Stores/useUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ViewModels/findingNearsDrivers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ViewModels/signIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ViewModels/signUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ViewModels/updatingUserProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/OpenStreetGeocoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/calculatePrices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/convertFirstUpperCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/getRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hooks/useFetchUserProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hooks/useFindingNearsDrivers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hooks/useGettingLocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hooks/useGettingLocationPermission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hooks/useUpdateStoreUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/getMe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/car.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/Field/CredentialsField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/Field/CredentialsField.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/Field/EmailField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/Field/EmailField.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/Field/FirstNameField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/Field/FirstNameField.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/Field/LastNameField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/Field/LastNameField.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/Field/PasswordField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/Field/PasswordField.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Screens/SignIn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Screens/SignIn.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Screens/SignUp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Screens/SignUp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Screens/Welcome.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Screens/Welcome.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Screens/_layouts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/navigation/AuthNavigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/navigation/AuthNavigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/navigation/RootNavigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/navigation/RootNavigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/adaptive-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,29 +79,48 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2jwk70AbS6nxCbishr46Te5elnI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/kevinamadorrios/Developer/ExpressApp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kevinamadorrios/Developer/ExpressApp/app/hooks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/hooks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/app/lib" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +130,60 @@
       <option name="presentableId" value="Default" />
       <updated>1722305357895</updated>
       <workItem from="1722305358961" duration="420000" />
+      <workItem from="1722306795878" duration="7185000" />
+      <workItem from="1722382814929" duration="10676000" />
+      <workItem from="1722451767651" duration="8871000" />
+      <workItem from="1722738444234" duration="4308000" />
+      <workItem from="1723001510259" duration="4000" />
+      <workItem from="1723262234822" duration="9086000" />
+      <workItem from="1723333650143" duration="9390000" />
+      <workItem from="1723345766064" duration="316000" />
+      <workItem from="1723410076879" duration="14651000" />
+      <workItem from="1723704131620" duration="421000" />
+      <workItem from="1724551377645" duration="4840000" />
+      <workItem from="1724619550450" duration="18189000" />
+      <workItem from="1724712737164" duration="113000" />
+      <workItem from="1724726631093" duration="3578000" />
+      <workItem from="1724825062661" duration="117000" />
+      <workItem from="1725424311057" duration="13670000" />
+      <workItem from="1725599524046" duration="5004000" />
+      <workItem from="1725671974112" duration="23961000" />
+      <workItem from="1726336732913" duration="1614000" />
+      <workItem from="1727579756056" duration="51000" />
+      <workItem from="1727650543619" duration="2385000" />
+      <workItem from="1727711724102" duration="65000" />
+      <workItem from="1728011290707" duration="3365000" />
+      <workItem from="1728100965663" duration="4346000" />
+      <workItem from="1728240656293" duration="12895000" />
+      <workItem from="1728446510195" duration="14000" />
+      <workItem from="1728448488690" duration="3081000" />
+      <workItem from="1728703588409" duration="10501000" />
+      <workItem from="1728773150480" duration="16223000" />
+      <workItem from="1728916584644" duration="13000" />
+      <workItem from="1728916738505" duration="2903000" />
+      <workItem from="1729038070239" duration="1839000" />
+      <workItem from="1729212981617" duration="11080000" />
+      <workItem from="1729379033349" duration="2376000" />
+      <workItem from="1729652175008" duration="3996000" />
+      <workItem from="1729657500145" duration="1989000" />
+      <workItem from="1729704545367" duration="10305000" />
+      <workItem from="1730515740284" duration="457000" />
+      <workItem from="1731013041530" duration="99000" />
+      <workItem from="1731376358815" duration="1055000" />
+      <workItem from="1731430429759" duration="886000" />
+      <workItem from="1731459332148" duration="10754000" />
+      <workItem from="1734116283315" duration="38000" />
+      <workItem from="1734117318576" duration="925000" />
+      <workItem from="1737331093203" duration="92000" />
+      <workItem from="1737331708549" duration="106000" />
+      <workItem from="1737331890463" duration="485000" />
+      <workItem from="1737333472682" duration="34000" />
+      <workItem from="1737333633789" duration="49000" />
+      <workItem from="1737334030667" duration="26000" />
+      <workItem from="1737334597428" duration="28000" />
+      <workItem from="1738809884510" duration="7958000" />
+      <workItem from="1738894196344" duration="11186000" />
+      <workItem from="1744258911984" duration="11000" />
     </task>
     <servers />
   </component>
